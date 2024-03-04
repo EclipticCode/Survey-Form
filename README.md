@@ -1,1 +1,1 @@
-This repository has HTML codes of a responsive design Survey Form 
+This repository has HTML codes for a responsive design Survey Form 
